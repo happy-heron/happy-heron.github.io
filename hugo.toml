@@ -60,6 +60,24 @@ enableEmoji = true
     weight = 4
 
   [[menu.main]]
+    name = "Tilghman"
+    parent = "Locations"
+    url = "/tilghman-location"
+    weight = 1
+
+  [[menu.main]]
+    name = "Easton"
+    parent = "Locations"
+    url = "/easton-location"
+    weight = 2
+
+  [[menu.main]]
+    name = "Denton"
+    parent = "Locations"
+    url = "/denton-location"
+    weight = 3
+
+  [[menu.main]]
     name = "Contact"
     url = "/contact"
     weight = 5
