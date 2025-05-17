@@ -43,21 +43,14 @@ enableEmoji = true
     weight = 3
 
   [[menu.main]]
-    name = "About Us"
-    parent = "About"
-    url = "/about"
-    weight = 1
-
-  [[menu.main]]
     name = "Leaders"
-    parent = "About"
     url = "/leaders"
-    weight = 2
+    weight = 4
 
   [[menu.main]]
     name = "Locations"
     url = "/locations"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     name = "Tilghman"
@@ -80,7 +73,7 @@ enableEmoji = true
   [[menu.main]]
     name = "Contact"
     url = "/contact"
-    weight = 5
+    weight = 6
 
 # Paramaters for the whole site
 [params]

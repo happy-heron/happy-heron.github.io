@@ -62,10 +62,10 @@
 
   [[feature_images.tile]]
     image = "img/freely-26905.jpg"
-    title = "Another subtitle"
-    text = "Another subtitle desc. goes here"
+    title = "Donations"
+    text = "desc. goes here for donations"
     url = "#"
-    button_text="Action goes here"
+    button_text="Donate"
 
 [CTA]
   enable = false
