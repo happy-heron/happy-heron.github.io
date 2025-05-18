@@ -6,4 +6,4 @@ images: [""]
 draft: false
 ---
 
-This is an example locations page for the respective location. please change this.
+This has been changed
