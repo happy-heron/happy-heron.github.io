@@ -6,6 +6,9 @@ images: ["kids.jpg"]
 draft: false
 ---
 
-This has been changed
+Welcome to our Denton location!
 
-This is a new paragraph
+
+
+
+
