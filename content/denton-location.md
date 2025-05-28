@@ -8,4 +8,6 @@ draft: false
 
 Welcome to our Denton location!
 
+{{< map.inline >}}{{ partial "map2" . }}{{< /map.inline >}}
+
 ![Our Denton Location](/img/NorthCarolineHighSchool.jpg)
