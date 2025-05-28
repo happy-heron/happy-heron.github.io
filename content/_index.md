@@ -12,7 +12,7 @@
 #Details for the box below the banner
 [services]
   title = "Summer Camp"
-  text = "Meeting times go here"
+  text = "We offer several different locations, see our [locations page](https://midshorestem.org/locations/)!"
   map_location = "Saint Michaels, Maryland"
 
 [feature_icons]

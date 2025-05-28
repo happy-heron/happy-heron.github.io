@@ -7,3 +7,8 @@ draft: false
 ---
 
 This is an example locations page for the respective location. please change this.
+
+(this map is probably incorrect since I haven't received the coordinates yet from the respective media chair)
+
+{{< map.inline >}}{{ partial "map3" . }}{{< /map.inline >}}
+
