@@ -78,7 +78,7 @@ enableEmoji = true
 # Paramaters for the whole site
 [params]
   title = "MidShore Summer STEM Camp"
-  subtitle = "Discover our STEM Summer Camp for disadvantaged youth! Our director, Mr. Bob DeGour, was a naval officer."
+  subtitle = "Discover our STEM Summer Camp for disadvantaged youth! We are currently operating on the Eastern Shore of Maryland."
   keywords = ["summer camp", "tilghman", "stem", "easton", "denton"]
   languageCode = "en" # For accessibility this needs to be set. You can find all language codes at https://www.w3schools.com/tags/ref_language_codes.asp
   #bible_popups = "faithlife" #faithlife, blb
