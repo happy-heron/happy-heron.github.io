@@ -7,3 +7,5 @@ draft: false
 ---
 
 This is an example leaders page.
+
+Here are our leaders:
