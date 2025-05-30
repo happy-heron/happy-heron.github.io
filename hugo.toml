@@ -112,12 +112,12 @@ enableEmoji = true
     #feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
     #spotify = "https://open.spotify.com/show/1iE3aJkf8fJ2FVTvJGFd4h"
 
-  # ST MICHAELS
+  # EASTON
   [params.map]
     service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
     # For Open Street Map widgets
-    latitude = "38.780058"
-    longitude = "-76.218447"
+    latitude = "38.76295097444093"
+    longitude = "-76.07716293350614"
     zoom = "18"
     # If you want to use google maps you'll need an API Key from Google https://developers.google.com/maps/documentation/embed/get-api-key
     #service = "google"

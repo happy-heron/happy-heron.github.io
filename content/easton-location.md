@@ -7,3 +7,7 @@ draft: false
 ---
 
 **bold text**, *italics*, [link text](https://example.com/)
+
+**See below a mapbox of where our Easton location is:**
+
+{{< map.inline >}}{{ partial "map" . }}{{< /map.inline >}}
