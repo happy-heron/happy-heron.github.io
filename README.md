@@ -4,7 +4,7 @@
 - Page location: `https://midshorestem.org/leaders/` ---> `/content/leaders.md`
 - N.B. The main page is `/content/_index.md` and uses a special format
 - Content uses the [Markdown format](https://en.wikipedia.org/wiki/Markdown#Examples)
-- **Switch from the (PREVIEW) button to (CODE)!!!**
+- ==**Switch from the (PREVIEW) button to (CODE)!!!**==
 - Use the pencil icon to edit
 - Commit your changes when ready
 - Changes will propagate after about 2 minutes, at a maximum
