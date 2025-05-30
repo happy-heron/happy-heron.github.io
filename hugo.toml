@@ -183,7 +183,7 @@ enableEmoji = true
       service = "Facebook"
       icon = "fa-facebook"
       icon_pack = "fab"
-      link = "https://facebook.com/"
+      link = "https://www.facebook.com/TalbotSTEM2021/"
 
     #[[params.links]]
       #service = "Podcast"
