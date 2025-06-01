@@ -54,14 +54,14 @@
   enable = true
 
   [[feature_images.tile]]
-    image = "img/freely-10057.jpg"
+    #image = "img/freely-10057.jpg"
     title = "Leaders"
     text = "Leaders desc. goes here"
     url = "/leaders"
     button_text = "Learn more"
 
   [[feature_images.tile]]
-    image = "img/freely-26905.jpg"
+    #image = "img/freely-26905.jpg"
     title = "Donations"
     text = "desc. goes here for donations"
     url = "#"
