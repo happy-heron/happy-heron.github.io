@@ -12,7 +12,7 @@
 #Details for the box below the banner
 [services]
   title = "Summer Camp"
-  text = "We offer several different locations, see our [locations page](https://midshorestem.org/locations/)! Below is a mapbox of our original location in Easton"
+  text = "We offer several different locations, see our [locations page](https://midshorestem.org/locations/)! Below is a mapbox of our original location in Easton:"
   map_location = "Easton, Maryland"
 
 [feature_icons]
