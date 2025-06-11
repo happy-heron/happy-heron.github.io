@@ -12,4 +12,4 @@ Welcome to our Denton location!
 
 ![Our Denton Location](/img/NorthCarolineHighSchool.jpg)
 
-                                                                Our Staff
+# Our Staff
