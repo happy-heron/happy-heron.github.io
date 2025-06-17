@@ -138,7 +138,7 @@ enableEmoji = true
     #language = "fr" #Optional
     #region = "FR" #Optional
 
-  # TILGHMAN
+  # BAY 100
   [params.map3]
     service = "osm" #"osm" for OpenStreetMaps, "google" for Google Maps, or "mapbox" for Mapbox, see SETUP.md
     # For Open Street Map widgets
