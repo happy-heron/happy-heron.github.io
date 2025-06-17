@@ -2,33 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://happy-heron.github.io/</loc>
     <lastmod>2025-05-17T16:45:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/leaders/</loc>
+    <loc>https://happy-heron.github.io/leaders/</loc>
     <lastmod>2025-05-17T16:45:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/denton-location/</loc>
+    <loc>https://happy-heron.github.io/bay-100-location/</loc>
     <lastmod>2025-05-17T16:45:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/easton-location/</loc>
+    <loc>https://happy-heron.github.io/denton-location/</loc>
     <lastmod>2025-05-17T16:45:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tilghman-location/</loc>
+    <loc>https://happy-heron.github.io/easton-location/</loc>
     <lastmod>2025-05-17T16:45:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first-post/</loc>
+    <loc>https://happy-heron.github.io/posts/first-post/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://happy-heron.github.io/posts/</loc>
     <lastmod>2025-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/locations/</loc>
+    <loc>https://happy-heron.github.io/locations/</loc>
     <lastmod>2025-05-07T16:45:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://happy-heron.github.io/about/</loc>
     <lastmod>2025-04-09T16:45:58+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://happy-heron.github.io/tags/</loc>
   </url>
 </urlset>

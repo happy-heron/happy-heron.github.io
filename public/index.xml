@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MidShore Summer STEM Camp</title>
-    <link>http://localhost:1313/</link>
+    <link>https://happy-heron.github.io/</link>
     <description>Recent content on MidShore Summer STEM Camp</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>test@example.com (Web Author)</managingEditor>
     <webMaster>test@example.com (Web Author)</webMaster>
     <lastBuildDate>Sat, 17 May 2025 16:45:58 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://happy-heron.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Leaders</title>
-      <link>http://localhost:1313/leaders/</link>
+      <link>https://happy-heron.github.io/leaders/</link>
       <pubDate>Sat, 17 May 2025 16:45:58 +0000</pubDate><author>test@example.com (Web Author)</author>
-      <guid>http://localhost:1313/leaders/</guid>
-      <description>&lt;p&gt;This is an example leaders page.&lt;/p&gt;</description>
+      <guid>https://happy-heron.github.io/leaders/</guid>
+      <description>&lt;p&gt;This is an example leaders page.&lt;/p&gt;&#xA;&lt;p&gt;Here are our leaders:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Our Bay 100 Location</title>
+      <link>https://happy-heron.github.io/bay-100-location/</link>
+      <pubDate>Sat, 17 May 2025 16:45:58 +0000</pubDate><author>test@example.com (Web Author)</author>
+      <guid>https://happy-heron.github.io/bay-100-location/</guid>
+      <description>&lt;p&gt;This is an example locations page for the respective location. please change this.&lt;/p&gt;&#xA;&lt;p&gt;(this map is probably incorrect since I haven&amp;rsquo;t received the coordinates yet from the respective media chair)&lt;/p&gt;&#xA;&#xA;  &lt;div id=&#34;map&#34; class=&#34;box&#34;&gt;&lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &lt;!-- OpenStreetMap --&gt;&#xA;&#x9;&#x9;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.css&#34; integrity=&#34;sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=&#34; crossorigin=&#34;anonymous&#34;/&gt;&#xA;    &lt;script src=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.js&#34; integrity=&#34;sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;&#xA;    &lt;script&gt;&#xA;        var loc = [ 38.908472 , -75.841389 ];&#xA;        var mymap = L.map(&#34;map&#34;).setView(loc, 18 );&#xA;        L.tileLayer(&#xA;          &#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,&#xA;          {&#xA;            attribution:&#xA;              &#39;Map data &amp;copy; &lt;a href=&#34;https://www.openstreetmap.org/copyright&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,&#xA;              maxZoom: 18 }&#xA;        ).addTo(mymap);&#xA;          var marker = L.marker(loc).addTo(mymap);&#xA;    &lt;/script&gt;</description>
     </item>
     <item>
       <title>Our Denton Location</title>
-      <link>http://localhost:1313/denton-location/</link>
+      <link>https://happy-heron.github.io/denton-location/</link>
       <pubDate>Sat, 17 May 2025 16:45:58 +0000</pubDate><author>test@example.com (Web Author)</author>
-      <guid>http://localhost:1313/denton-location/</guid>
-      <description>&lt;p&gt;Welcome to our Denton location!&lt;/p&gt;&#xA;&#xA;  &lt;div id=&#34;map&#34; class=&#34;box&#34;&gt;&lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &lt;!-- OpenStreetMap --&gt;&#xA;&#x9;&#x9;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.css&#34; integrity=&#34;sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=&#34; crossorigin=&#34;anonymous&#34;/&gt;&#xA;    &lt;script src=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.js&#34; integrity=&#34;sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;&#xA;    &lt;script&gt;&#xA;        var loc = [ 38.908472 , -75.841389 ];&#xA;        var mymap = L.map(&#34;map&#34;).setView(loc, 18 );&#xA;        L.tileLayer(&#xA;          &#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,&#xA;          {&#xA;            attribution:&#xA;              &#39;Map data &amp;copy; &lt;a href=&#34;https://www.openstreetmap.org/copyright&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,&#xA;              maxZoom: 18 }&#xA;        ).addTo(mymap);&#xA;          var marker = L.marker(loc).addTo(mymap);&#xA;    &lt;/script&gt;&#xA;  &#xA;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/NorthCarolineHighSchool.jpg&#34; alt=&#34;Our Denton Location&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://happy-heron.github.io/denton-location/</guid>
+      <description>&lt;p&gt;Welcome to our Denton location!&lt;/p&gt;&#xA;&#xA;  &lt;div id=&#34;map&#34; class=&#34;box&#34;&gt;&lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &lt;!-- OpenStreetMap --&gt;&#xA;&#x9;&#x9;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.css&#34; integrity=&#34;sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=&#34; crossorigin=&#34;anonymous&#34;/&gt;&#xA;    &lt;script src=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.js&#34; integrity=&#34;sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;&#xA;    &lt;script&gt;&#xA;        var loc = [ 38.908472 , -75.841389 ];&#xA;        var mymap = L.map(&#34;map&#34;).setView(loc, 18 );&#xA;        L.tileLayer(&#xA;          &#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,&#xA;          {&#xA;            attribution:&#xA;              &#39;Map data &amp;copy; &lt;a href=&#34;https://www.openstreetmap.org/copyright&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,&#xA;              maxZoom: 18 }&#xA;        ).addTo(mymap);&#xA;          var marker = L.marker(loc).addTo(mymap);&#xA;    &lt;/script&gt;&#xA;  &#xA;&#xA;&#xA;&lt;p&gt;&lt;img src=&#34;https://happy-heron.github.io/img/NorthCarolineHighSchool.jpg&#34; alt=&#34;Our Denton Location&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;our-staff&#34;&gt;Our Staff&lt;/h1&gt;</description>
     </item>
     <item>
       <title>Our Easton Location</title>
-      <link>http://localhost:1313/easton-location/</link>
+      <link>https://happy-heron.github.io/easton-location/</link>
       <pubDate>Sat, 17 May 2025 16:45:58 +0000</pubDate><author>test@example.com (Web Author)</author>
-      <guid>http://localhost:1313/easton-location/</guid>
-      <description>&lt;p&gt;This is an example locations page for the respective location. please change this.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Our Tilghman Location</title>
-      <link>http://localhost:1313/tilghman-location/</link>
-      <pubDate>Sat, 17 May 2025 16:45:58 +0000</pubDate><author>test@example.com (Web Author)</author>
-      <guid>http://localhost:1313/tilghman-location/</guid>
-      <description>&lt;p&gt;This is an example locations page for the respective location. please change this.&lt;/p&gt;</description>
+      <guid>https://happy-heron.github.io/easton-location/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;, &lt;em&gt;italics&lt;/em&gt;, &lt;a href=&#34;https://example.com/&#34;&gt;link text&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;See below a mapbox of where our Easton location is:&lt;/strong&gt;&lt;/p&gt;&#xA;&#xA;  &lt;div id=&#34;map&#34; class=&#34;box&#34;&gt;&lt;/div&gt;&#xA;  &#xA;    &#xA;    &#xA;    &lt;!-- OpenStreetMap --&gt;&#xA;&#x9;&#x9;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.css&#34; integrity=&#34;sha256-kLaT2GOSpHechhsozzB+flnD+zUyjE2LlfWPgU04xyI=&#34; crossorigin=&#34;anonymous&#34;/&gt;&#xA;    &lt;script src=&#34;https://unpkg.com/leaflet@1.9.3/dist/leaflet.js&#34; integrity=&#34;sha256-WBkoXOwTeyKclOHuWtc+i2uENFpDZ9YPdf5Hf+D7ewM=&#34; crossorigin=&#34;anonymous&#34;&gt;&lt;/script&gt;&#xA;    &lt;script&gt;&#xA;        var loc = [ 38.76295097444093 , -76.07716293350614 ];&#xA;        var mymap = L.map(&#34;map&#34;).setView(loc, 18 );&#xA;        L.tileLayer(&#xA;          &#34;https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png&#34;,&#xA;          {&#xA;            attribution:&#xA;              &#39;Map data &amp;copy; &lt;a href=&#34;https://www.openstreetmap.org/copyright&#34;&gt;OpenStreetMap&lt;/a&gt; contributors&#39;,&#xA;              maxZoom: 18 }&#xA;        ).addTo(mymap);&#xA;          var marker = L.marker(loc).addTo(mymap);&#xA;    &lt;/script&gt;</description>
     </item>
     <item>
       <title>Example Post remove in prod</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>https://happy-heron.github.io/posts/first-post/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate><author>test@example.com (Web Author)</author>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>https://happy-heron.github.io/posts/first-post/</guid>
       <description>&lt;p&gt;first post (remove this in prod)&lt;/p&gt;</description>
     </item>
   </channel>
