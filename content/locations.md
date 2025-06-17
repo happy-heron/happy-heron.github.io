@@ -7,7 +7,7 @@ draft: false
 ---
 
 We are pleased to announce locations are available in the following areas:
-- [Tilghman](https://midshorestem.org/tilghman-location/)
+- [Bay 100](https://midshorestem.org/bay-100-location/)
 - [Easton](https://midshorestem.org/easton-location/)
 - [Denton](https://midshorestem.org/denton-location/)
 
