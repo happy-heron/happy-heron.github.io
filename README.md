@@ -1,9 +1,8 @@
 # For STEM Leaders:
----
 ## Editing pages
 - Page location: `https://midshorestem.org/leaders/` ---> `/content/leaders.md`
-- N.B. The main page is `/content/_index.md` and uses a special format
-- Content uses the [Markdown format](https://en.wikipedia.org/wiki/Markdown#Examples)
+- N.B. The main page is `/content/_index.md` and uses a special structure
+- Content uses the [Markdown format](https://www.markdownguide.org/cheat-sheet/)
 - **Switch from the (PREVIEW) button to (CODE)!!!**
 - Use the pencil icon to edit
 - Commit your changes when ready
@@ -20,4 +19,4 @@ N.B. The image title won't be shown on the post, unless hovered over
 - Other than that, they are the same as the pages
 - They will propagate on the website [here](https://midshorestem.org/posts/)
 ---
-### If you have any questions, please let me know
+### If you have any questions, please let me know.
