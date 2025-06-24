@@ -12,4 +12,6 @@ Welcome to our Denton location!
 
 ![Our Denton Location](/img/NorthCarolineHighSchool.jpg)
 
-# Our Staff
+Day 1 Photos
+
+[image_4772](img/image_4772)
