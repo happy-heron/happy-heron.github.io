@@ -9,7 +9,6 @@
 - Changes will propagate after about 2 minutes, at a maximum
 ## Images
 - Upload the image into the `/static/img/` directory
-- Reference it in the "images" array near the top of the page
 - When using it in the post, the syntax is:
 `![IMAGE_TITLE](/img/IMAGE_NAME_GOES_HERE.jpg)`
 N.B. The image title won't be shown on the post, unless hovered over
