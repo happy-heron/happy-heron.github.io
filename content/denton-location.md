@@ -14,4 +14,4 @@ Welcome to our Denton location!
 
 Day 1 Photos
 
-[Day 1 photo.img](/img/Day 1 photo.img)
+![Day 1 photo.img](/img/Day 1 photo.img)
