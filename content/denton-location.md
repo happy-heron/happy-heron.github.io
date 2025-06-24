@@ -38,6 +38,7 @@ Day 2 Photos!
 ![Day 2 photo](/img/Day2image13.jpeg)
 ![Day 2 photo](/img/Day2image14.jpeg)
 ![Day 2 photo](/img/Day2image15.jpeg)
+![Day 2 photo](/img/Day2image16.jpeg)
 ![Day 2 photo](/img/Day2image17.jpeg)
 ![Day 2 photo](/img/Day2image18.jpeg)
 ![Day 2 photo](/img/Day2image19.jpeg)
