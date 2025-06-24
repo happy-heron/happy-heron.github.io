@@ -16,4 +16,4 @@ Day 1 Photos
 
 ![Day 1 photo](/img/Day1image.jpeg)
 ![Day 1 photo 2](/img/Day1image2.jpeg)
-![IMG_4774](/img/IMG_4774.img)
+![IMG_4774](/img/IMG_4774.jpeg)
