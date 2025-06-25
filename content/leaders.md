@@ -25,4 +25,4 @@ Here are our leaders:
 - Kaylin Palmer - Media Chair
 - Maren Murdoch - Seinor Stem Leader
 - Tess Weller - Curriculum Chair
-- Veronica Pool - Ligistics and Communications Chair
+- Veronica Pool - Logistics and Communications Chair
