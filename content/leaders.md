@@ -18,7 +18,7 @@ Here are our leaders:
 - Touryn Smith
   
   
-- Hunter Gilry - Finance Chair
+- Hunter Gilroy - Finance Chair
 - Jordan Horsey - Personel Chair
 - Kaylin Palmer - Media Chair
 - Maren Murdoch - Seinor Stem Leader
