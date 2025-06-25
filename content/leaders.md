@@ -8,20 +8,20 @@ draft: false
 This is an example leaders page.
 
 Here are our leaders:
--   Ben Chance
--   Ben Watkins
--   Briana Ocampo
--   Corey Fisher
--   Declan Corley
--   Delmira Caniza-Galvez
--   Jack Gonzales
--   Jordyn Wilson-Colbert
--   Lucas Watkins
--   Touryn Smith
--   
-- Hunter Gilry
-- Jordan Horsey
-- Kaylin Palmer
-- Maren Murdoc
-- Tess Weller
-- Veronica Pool  
+- Ben Chance
+- Ben Watkins
+- Briana Ocampo
+- Corey Fisher
+- Declan Corley
+- Delmira Caniza-Galvez
+- Jack Gonzales
+- Wilson-Colbert
+- Lucas Watkins
+- Touryn Smith
+  
+- Hunter Gilry - Finance Chair
+- Jordan Horsey - Personel Chair
+- Kaylin Palmer - Media Chair
+- Maren Murdoch - Seinor Stem Leader
+- Tess Weller - Ciriculem Chair
+- Veronica Pool - Ligistics and Communications Chair
