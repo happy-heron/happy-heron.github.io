@@ -5,13 +5,13 @@ date: 2025-05-17T16:45:58+00:00
 draft: false
 ---
 
-Welcome to our Denton location!
+# Welcome to our Denton location!
 
 {{< map.inline >}}{{ partial "map2" . }}{{< /map.inline >}}
 
 ![Our Denton Location](/img/NorthCarolineHighSchool.jpg)
 
-# Day 1 Photos!
+## Day 1 Photos!
 
 ![Day 1 photo](/img/Day1image.jpeg)
 ![Day 1 photo 2](/img/Day1image2.jpeg)
@@ -21,7 +21,7 @@ Welcome to our Denton location!
 ![Day 1 photo](/img/Day1image6.jpeg)
 ![Day 1 photo](/img/Day1image7.jpeg)
 
-## Day 2 Photos!
+### Day 2 Photos!
 
 ![Day 2 photo](/img/Day2image1.jpeg)
 ![Day 2 photo](/img/Day2image2.jpeg)
