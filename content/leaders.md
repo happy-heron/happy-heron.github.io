@@ -19,9 +19,10 @@ Here are our leaders:
 - Lucas Watkins
 - Touryn Smith
   
+  
 - Hunter Gilry - Finance Chair
 - Jordan Horsey - Personel Chair
 - Kaylin Palmer - Media Chair
 - Maren Murdoch - Seinor Stem Leader
-- Tess Weller - Ciriculem Chair
+- Tess Weller - Curriculum Chair
 - Veronica Pool - Ligistics and Communications Chair
