@@ -43,3 +43,19 @@ Day 2 Photos!
 ![Day 2 photo](/img/Day2image19.jpeg)
 ![Day 2 photo](/img/Day2image20.jpeg)
 ![Day 2 photo](/img/Day2image21.jpeg)
+
+Day 3 Photos!
+
+![Day 3 photo](/img/Day3image1.jpeg)
+![Day 3 photo](/img/Day3image2.jpeg)
+![Day 3 photo](/img/Day3image3.jpeg)
+![Day 3 photo](/img/Day3image4.jpeg)
+![Day 3 photo](/img/Day3image5.jpeg)
+![Day 3 photo](/img/Day3image6.jpeg)
+![Day 3 photo](/img/Day3image7.jpeg)
+![Day 3 photo](/img/Day3image8.jpeg)
+![Day 3 photo](/img/Day3image9.jpeg)
+![Day 3 photo](/img/Day3image10.jpeg)
+![Day 3 photo](/img/Day3image11.jpeg)
+![Day 3 photo](/img/Day3image12.jpeg)
+![Day 3 photo](/img/Day3image13.jpeg)
