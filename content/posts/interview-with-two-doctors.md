@@ -1,7 +1,7 @@
 ---
 author: "Kaylin Palmer"
 date: 2025-06-25
-title: MidShore STEM Camp 2025: Interview with Two Doctors
+title: Interview with Two Doctors
 tags: []
 ---
 
