@@ -11,7 +11,7 @@ Welcome to our Denton location!
 
 ![Our Denton Location](/img/NorthCarolineHighSchool.jpg)
 
-# H1 Day 1 Photos!
+# Day 1 Photos!
 
 ![Day 1 photo](/img/Day1image.jpeg)
 ![Day 1 photo 2](/img/Day1image2.jpeg)
@@ -21,7 +21,7 @@ Welcome to our Denton location!
 ![Day 1 photo](/img/Day1image6.jpeg)
 ![Day 1 photo](/img/Day1image7.jpeg)
 
-# H2 Day 2 Photos!
+## Day 2 Photos!
 
 ![Day 2 photo](/img/Day2image1.jpeg)
 ![Day 2 photo](/img/Day2image2.jpeg)
