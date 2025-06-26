@@ -20,9 +20,9 @@ Member: Landon Shilling
 
 ### Curriculum
 **Leadership Chair: Israel Mora Murillo**
-Member: Sam Heimbuch
-Member: Miranda Rubio Angeles 
-Member: Jacob Carpenter
+1.Member: Sam Heimbuch
+2.Member: Miranda Rubio Angeles 
+3.Member: Jacob Carpenter
 
 ### Personnel
 **Leadership Chair: Jenna Hurley**
