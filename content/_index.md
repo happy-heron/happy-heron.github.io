@@ -31,21 +31,21 @@
     icon = "fa-graduation-cap"
     icon_pack = "fas"
     accent = "2"
-    title = "Learn"
+    title = "Enabling learning"
     text = "Engage in hands-on STEM activities—from exploring the cardiovascular system and medicine to experimenting with physics and chemistry—to spark curiosity, problem-solving skills, and a lifelong love of learning."
 
   [[feature_icons.tile]]
     icon = "fa-comments"
     icon_pack = "fas"
     accent = "5"
-    title = "Speak"
+    title = "Empowering conversations"
     text = "Fostering a culture of supportive dialogue where peers uplift each other with positive feedback, motivational talks, active listening, and shared personal insights."
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
     icon_pack = "fas"
     accent = "3"
-    title = "Care"
+    title = "Valuing compassion"
     text = "Building a community of genuine support by offering empathy, practical help, and attentive listening so everyone feels understood, valued, and cared for in every step of their journey."
 
 [feature_images]
