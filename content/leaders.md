@@ -14,7 +14,7 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 ### Senior STEM Leader
 **Leadership Chair: Ashlynn Bisesi**
 - Member: Landon Shilling
-- 
+  
 -
 
 ### Media
@@ -25,13 +25,13 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 - Member: Sam Heimbuch
 - Member: Miranda Rubio Angeles 
 - Member: Jacob Carpenter
--
+
 -
 
 ### Personnel
 **Leadership Chair: Jenna Hurley**
 - Member: Madelyn Espil
--
+
 -
 
 ### Finance 
@@ -40,14 +40,14 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 - Member: George Schwaeble
 - Member: Kelly Beauchemin
 - Member: Emma Davis
--
+
 -
 
 ### Communications 
 **Leadership Chair: Mason Shilling**
 - Member: Ethan Heimbuch
 - Member: Ashton Griep
--
+
 -
 
 
