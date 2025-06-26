@@ -13,7 +13,7 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 
 ### Senior STEM Leader
 **Leadership Chair: Ashlynn Bisesi**
-- Member: Landon Shilling
+1. Member: Landon Shilling
 
 ### Media
 **Leadership Chair: Ayden Russell**
