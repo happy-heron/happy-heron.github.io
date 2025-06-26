@@ -1,13 +1,13 @@
 +++
 [banner]
   [[banner.button]]
-      url = "/contact"
-      text = "Get in touch"
+      url = "/about"
+      text = "Learn more"
       type = "primary"
 
   [[banner.button]]
       url = "#feature-icons"
-      text = "Find out more"
+      text = "Our objectives"
 
 #Details for the box below the banner
 [services]
