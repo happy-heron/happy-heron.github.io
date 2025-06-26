@@ -105,3 +105,6 @@ Throughout the camp, students explored real-world applications of science and en
 ![Day 4 photo](/img/Day4image11.jpeg)
 ![Day 4 photo](/img/Day4image12.jpeg)
 ![Day 4 photo](/img/Day4image13.jpeg)
+
+# STEM Graduation Photos!
+
