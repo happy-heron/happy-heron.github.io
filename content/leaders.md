@@ -13,32 +13,32 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 
 ### Senior STEM Leader
 **Leadership Chair: Ashlynn Bisesi**
-Member: Landon Shilling
+- Member: Landon Shilling
 
 ### Media
 **Leadership Chair: Ayden Russell**
 
 ### Curriculum
 **Leadership Chair: Israel Mora Murillo**
-Member: Sam Heimbuch
-Member: Miranda Rubio Angeles 
-Member: Jacob Carpenter
+- Member: Sam Heimbuch
+- Member: Miranda Rubio Angeles 
+- Member: Jacob Carpenter
 
 ### Personnel
 **Leadership Chair: Jenna Hurley**
-Member: Madelyn Espil
+- Member: Madelyn Espil
 
 ### Finance 
 **Leadership Chair: Madison McNinch**
-Member: Hadley Sullivan
-Member: George Schwaeble
-Member: Kelly Beauchemin
-Member: Emma Davis
+- Member: Hadley Sullivan
+- Member: George Schwaeble
+- Member: Kelly Beauchemin
+- Member: Emma Davis
 
 ### Finance 
 **Leadership Chair: Mason Shilling**
-Member: Ethan Heimbuch
-Member: Ashton Griep
+- Member: Ethan Heimbuch
+- Member: Ashton Griep
 
 
 
