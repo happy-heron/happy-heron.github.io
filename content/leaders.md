@@ -9,9 +9,9 @@ draft: false
 
 STEM leaders make these camps possible through their dedication, expertise, and generosity. They volunteer their time to teach and inspire students, provide resources and materials, and help organize engaging hands-on activities. Their leadership ensures that young learners have the opportunity to explore science, technology, engineering, and math in fun and meaningful ways.
 
-## Denton STEM Leaders
-### Senior STEM Leader
-**Leadership Chair: Ashlynn Bisesi**
+# Denton STEM Leaders
+## Senior STEM Leader
+### **Leadership Chair: Ashlynn Bisesi**
 - Member: Landon Shilling
 ## Media
 ### **Leadership Chair: Ayden Russell**
