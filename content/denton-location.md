@@ -89,4 +89,3 @@ Throughout the camp, students explored real-world applications of science and en
 
 # Day 4 Photos!
 
-
