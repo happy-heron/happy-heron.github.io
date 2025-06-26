@@ -15,6 +15,20 @@ draft: false
 
 ![Our Denton Location](/img/NorthCarolineHighSchool.jpg)
 
+## STEM Camp Overview
+
+Over the course of four engaging and educational days, students participated in a variety of hands-on STEM activities designed to foster curiosity and critical thinking about science, technology, engineering, and the environment.
+
+Day 1 began with an accountability lesson to promote responsibility and teamwork, followed by a static friction activity that introduced students to the forces that resist motion. The day concluded with the start of a lesson on conductors and insulators, using aluminum foil to explore how materials interact with electricity.
+
+Day 2 continued the exploration of electricity with an energy stick activity, where students learned how the human body can act as a conductor to complete a circuit. This was followed by further experiments with conductors and insulators, and wrapped up with engaging STEM-related activities.
+
+Day 3 featured special visits from Choptank Electric and Choptank Fiber. Students learned how electricity travels through power lines and how fiber optics transmit internet signals. The day ended with an engineering challenge—building a fan-powered car, combining creativity with problem-solving skills.
+
+Day 4 focused on environmental science, starting with a lesson on renewable vs. non-renewable resources. Students participated in activities comparing these energy sources, then dissected a cookie in a simulation of coal mining, illustrating the environmental damage caused by extracting and burning fossil fuels. The day concluded with students constructing their own solar-powered cars, applying what they learned about clean energy.
+
+Throughout the camp, students explored real-world applications of science and engineering, developing a deeper understanding of how technology impacts both society and the environment.
+
 # Day 1 Photos!
 
 ![Day 1 photo](/img/Day1image.jpeg)
