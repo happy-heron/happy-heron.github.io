@@ -62,7 +62,7 @@
   [[feature_images.tile]]
     image = ""
     title = "Donations"
-    text = "Prepare to make an impact.Our upcoming fundraisers will fuel our programs, allowing for disadvantaged students to be able to pursue their dreams in STEM. Stay tuned for dates and ways to contribute!"
+    text = "Our upcoming fundraisers will fuel our programs, allowing for disadvantaged students to be able to pursue their dreams in STEM. Stay tuned for dates and ways to contribute!"
     url = "#"
     button_text="Donate"
 
