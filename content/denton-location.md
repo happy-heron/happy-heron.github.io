@@ -82,3 +82,7 @@ Throughout the camp, students explored real-world applications of science and en
 ![Day 3 photo](/img/Day3image11.jpeg)
 ![Day 3 photo](/img/Day3image12.jpeg)
 ![Day 3 photo](/img/Day3image13.jpeg)
+
+# Day 4 Photos!
+
+
