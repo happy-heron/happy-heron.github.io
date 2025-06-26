@@ -35,7 +35,7 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 - Member: Ashton Griep
 
 
-### Easton STEM Leaders:
+## Easton STEM Leaders:
 - Ben Chance
 - Ben Watkins
 - Briana Ocampo
