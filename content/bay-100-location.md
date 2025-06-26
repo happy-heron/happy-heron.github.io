@@ -5,9 +5,7 @@ date: 2025-05-17T16:45:58+00:00
 draft: false
 ---
 
-This is an example locations page for the respective location. please change this.
-
-(this map is probably incorrect since I haven't received the coordinates yet from the respective media chair)
+Coming soon! Please note that the location may be incorrect as of right now.
 
 {{< map.inline >}}{{ partial "map3" . }}{{< /map.inline >}}
 

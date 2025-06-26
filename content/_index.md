@@ -12,7 +12,7 @@
 #Details for the box below the banner
 [services]
   title = "Summer Camp"
-  text = "We offer several different locations, see our [locations page](https://midshorestem.org/locations/)! Below is a mapbox of our original location in Easton:"
+  text = "We offer several different locations, please see our [locations page](https://midshorestem.org/locations/)! Below is a mapbox of our original location in Easton:"
   map_location = "Easton, Maryland"
 [feature_icons]
   #These feature icons look best if there's an even number of them.
@@ -23,8 +23,8 @@
     icon = "fa-hands-helping"
     icon_pack = "fas"
     accent = "1"
-    title = "Serve"
-    text = "Growing people who serve our community"
+    title = "Making leaders"
+    text = "Empowering individuals with the skills, confidence, and values to lead initiatives, inspire collaboration, and drive positive change within our community."
     #url = "/kids"
 
   [[feature_icons.tile]]
@@ -32,21 +32,21 @@
     icon_pack = "fas"
     accent = "2"
     title = "Learn"
-    text = "Hands-on STEM activities"
+    text = "Engage in hands-on STEM activities—from exploring the cardiovascular system and medicine to experimenting with physics and chemistry—to spark curiosity, problem-solving skills, and a lifelong love of learning."
 
   [[feature_icons.tile]]
     icon = "fa-comments"
     icon_pack = "fas"
     accent = "5"
     title = "Speak"
-    text = "Speaking encouragement to one-another."
+    text = "Fostering a culture of supportive dialogue where peers uplift each other with positive feedback, motivational talks, active listening, and shared personal insights."
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
     icon_pack = "fas"
     accent = "3"
-    title = "Loved"
-    text = "Knowing Love. Being Loved."
+    title = "Care"
+    text = "Building a community of genuine support by offering empathy, practical help, and attentive listening so everyone feels understood, valued, and cared for in every step of their journey."
 
 [feature_images]
 #These feature images look best if there's an even number of them.
@@ -55,14 +55,14 @@
   [[feature_images.tile]]
     image = ""
     title = "Leaders"
-    text = "Meet our Leaders at Easton and Denton Locations"
+    text = "Get to know the passionate individuals guiding our STEM camps. Learn about their expertise, vision, and dedication to empowering every STEM leader."
     url = "/leaders"
     button_text = "Learn more"
 
   [[feature_images.tile]]
     image = ""
     title = "Donations"
-    text = "Fundraisers coming soon..."
+    text = "Prepare to make an impact.Our upcoming fundraisers will fuel our programs, allowing for disadvantaged students to be able to pursue their dreams in STEM. Stay tuned for dates and ways to contribute!"
     url = "#"
     button_text="Donate"
 
