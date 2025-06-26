@@ -63,7 +63,7 @@
   [[feature_images.tile]]
     image = ""
     title = "Donations"
-    text = "desc. goes here for donations"
+    text = "Fundraisers coming soon..."
     url = "#"
     button_text="Donate"
 
