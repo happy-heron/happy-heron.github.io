@@ -25,7 +25,7 @@
     icon_pack = "fas"
     accent = "1"
     title = "Serve"
-    text = "Growing people who serve our community."
+    text = "Growing people who serve our community"
     #url = "/kids"
 
   [[feature_icons.tile]]
@@ -33,7 +33,7 @@
     icon_pack = "fas"
     accent = "2"
     title = "Learn"
-    text = "Learn desc."
+    text = "Hands-on STEM activities"
 
   [[feature_icons.tile]]
     icon = "fa-comments"
@@ -56,7 +56,7 @@
   [[feature_images.tile]]
     image = ""
     title = "Leaders"
-    text = "Leaders desc. goes here"
+    text = "Meet our Leaders at Easton and Denton Locations"
     url = "/leaders"
     button_text = "Learn more"
 
