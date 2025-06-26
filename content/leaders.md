@@ -16,7 +16,7 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 ## Media
 ### **Leadership Chair: Ayden Russell**
 ## Curriculum
-**Leadership Chair: Israel Mora Murillo**
+### **Leadership Chair: Israel Mora Murillo**
 - Member: Sam Heimbuch
 - Member: Miranda Rubio Angeles 
 - Member: Jacob Carpenter
