@@ -108,6 +108,10 @@ Throughout the camp, students explored real-world applications of science and en
 
 # STEM Graduation Photos!
 
+![Graduation photo](/img/STEMGraduationimage16.jpeg)
+![Graduation photo](/img/STEMGraduationimage17.jpeg)
+![Graduation photo](/img/STEMGraduationimage18.jpeg)
+![Graduation photo](/img/STEMGraduationimage19.jpeg)
 ![Graduation photo](/img/STEMGraduationimage1.jpeg)
 ![Graduation photo](/img/STEMGraduationimage2.jpeg)
 ![Graduation photo](/img/STEMGraduationimage3.jpeg)
