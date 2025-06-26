@@ -12,9 +12,9 @@
 #Details for the box below the banner
 [services]
   title = "Summer Camp"
-  text = "We offer several different locations, see our [locations page](https://midshorestem.org/locations/)! Below is a mapbox of our original location in Easton:"
+  text = "We offer several different locations, see our [locations page](https://midshorestem.org/locations/)! Below is a mapbox of our original location in Easton and Denton:"
   map_location = "Easton, Maryland"
-
+{{< map.inline >}}{{ partial "map2" . }}{{< /map.inline >}}
 [feature_icons]
   #These feature icons look best if there's an even number of them.
   enable = true
