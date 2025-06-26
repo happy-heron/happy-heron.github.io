@@ -7,7 +7,11 @@ draft: false
 
 # Welcome to our Denton location!
 
+[North Caroline High School Address](https://maps.app.goo.gl/Z87x6BBp8oUJchT59)
+
 {{< map.inline >}}{{ partial "map2" . }}{{< /map.inline >}}
+
+Campus⬇️
 
 ![Our Denton Location](/img/NorthCarolineHighSchool.jpg)
 
