@@ -10,49 +10,29 @@ draft: false
 STEM leaders make these camps possible through their dedication, expertise, and generosity. They volunteer their time to teach and inspire students, provide resources and materials, and help organize engaging hands-on activities. Their leadership ensures that young learners have the opportunity to explore science, technology, engineering, and math in fun and meaningful ways.
 
 ## Denton STEM Leaders
-
 ### Senior STEM Leader
 **Leadership Chair: Ashlynn Bisesi**
 - Member: Landon Shilling
-  
--
-
-### Media
-**Leadership Chair: Ayden Russell**
-
-### Curriculum
+## Media
+### **Leadership Chair: Ayden Russell**
+## Curriculum
 **Leadership Chair: Israel Mora Murillo**
 - Member: Sam Heimbuch
 - Member: Miranda Rubio Angeles 
 - Member: Jacob Carpenter
-
--
-
-### Personnel
-**Leadership Chair: Jenna Hurley**
+## Personnel
+### **Leadership Chair: Jenna Hurley**
 - Member: Madelyn Espil
-
--
-
-### Finance 
-**Leadership Chair: Madison McNinch**
+## Finance 
+### **Leadership Chair: Madison McNinch**
 - Member: Hadley Sullivan
 - Member: George Schwaeble
 - Member: Kelly Beauchemin
 - Member: Emma Davis
-
--
-
-### Communications 
-**Leadership Chair: Mason Shilling**
+## Communications 
+### **Leadership Chair: Mason Shilling**
 - Member: Ethan Heimbuch
 - Member: Ashton Griep
-
--
-
-
-
-
 
 
 ### Easton STEM Leaders:
