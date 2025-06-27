@@ -20,7 +20,7 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 - Member: Briana Ocampo
 ---
 ## Curriculum
-### **Leadership Chair: Anthony Shepard and Tess Weller**
+### **Leadership Chair: Tess Weller**
 - Member: Touryn Smith
 - Member: Ben Watkins
 ---
