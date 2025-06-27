@@ -26,7 +26,9 @@ Throughout the week, our STEM LEADERs emerged from their shells - developing int
 This was truly an amazing experience for everyone involved in our first Summer STEM Camp which served as a “leadership laboratory” for the high school students who planned and delivered an engaging science and technology program for their elementary school participants.
 
 Media Chair Ayden Russell’s team has posted tons of awesome pictures from each STEM Camp day.
+
 ---
+
 Over the course of four engaging and educational days, students participated in a variety of hands-on STEM activities designed to foster curiosity and critical thinking about science, technology, engineering, and the environment.
 
 **Day 1** began with an accountability lesson to promote responsibility and teamwork, followed by a static friction activity that introduced students to the forces that resist motion. The day concluded with the start of a lesson on conductors and insulators, using aluminum foil to explore how materials interact with electricity.
