@@ -55,7 +55,7 @@
   [[feature_images.tile]]
     image = ""
     title = "Leaders"
-    text = "Get to know the passionate individuals guiding our STEM camps. Learn about their expertise, vision, and dedication to empowering every STEM leader."
+    text = "Get to know the passionate individuals guiding our STEM camps. Learn about the expertise, vision, and dedication empowering every STEM leader."
     url = "/leaders"
     button_text = "Learn more"
 
