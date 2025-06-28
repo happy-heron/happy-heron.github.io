@@ -11,8 +11,6 @@ draft: false
 
 {{< map.inline >}}{{ partial "map" . }}{{< /map.inline >}}
 
-#Camp Photos!
-
 ![Camp photo](/img/ESTPHOTO1.jpeg)
 ![Camp photo](/img/ESTPHOTO2.jpeg)
 ![Camp photo](/img/ESTPHOTO3.jpeg)
