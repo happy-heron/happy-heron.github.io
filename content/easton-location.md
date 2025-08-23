@@ -5,11 +5,13 @@ date: 2025-05-17T16:45:58+00:00
 draft: false
 ---
 
-**bold text**, *italics*, [link text](https://example.com/)
-
 **See below a mapbox of where our Easton location is:**
 
 {{< map.inline >}}{{ partial "map" . }}{{< /map.inline >}}
+
+# Pictures from the 2025 Easton STEM Camp!
+
+---
 
 ![Camp photo](/img/ESTPHOTO1.jpeg)
 ![Camp photo](/img/ESTPHOTO2.jpeg)
@@ -28,4 +30,3 @@ draft: false
 ![Camp photo](/img/ESTPHOTO15.jpeg)
 ![Camp photo](/img/ESTPHOTO16.jpeg)
 ![Camp photo](/img/ESTPHOTO17.jpeg)
-
