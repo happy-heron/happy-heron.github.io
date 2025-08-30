@@ -62,7 +62,7 @@
   [[feature_images.tile]]
     image = ""
     title = "Donations"
-    text = "Our upcoming fundraisers will fuel our programs, allowing for disadvantaged students to be able to pursue their dreams in STEM. Please select "STEM Camp Campaign" as the campaign on the form!"
+    text = "Our upcoming fundraisers will fuel our programs, allowing for disadvantaged students to be able to pursue their dreams in STEM. Please select \"STEM Camp Campaign\" as the campaign on the form!"
     url = "https://operations.daxko.com/online/2043/OnlineGiving/Donation.mvc"
     button_text="Donate"
 
