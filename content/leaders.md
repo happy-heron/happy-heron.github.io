@@ -44,4 +44,4 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 **COMING SOON!**
 
 ---
-# [2025 STEM Leaders](https://midshorestem.org/leaders-2025/)
+# [2025 STEM Leaders (click here)](https://midshorestem.org/leaders-2025/)
