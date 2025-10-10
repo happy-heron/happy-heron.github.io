@@ -1,7 +1,7 @@
 ---
 title: "Leaders"
 subtitle: "About our STEM Leaders"
-date: 2025-10-10T16:45:58+00:00
+date: 2025-10-09T16:45:58+00:00
 draft: false
 ---
 
