@@ -19,7 +19,7 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 - Member: Not assigned yet.
 ---
 ## Media
-### **Leadership Chair: TBD**
+### **Leadership Chair: Maximus Rene**
 - Member: Not assigned yet.
 ---
 ## Curriculum
