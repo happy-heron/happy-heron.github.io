@@ -195,7 +195,7 @@ enableEmoji = true
       service = "Instagram"
       icon = "fa-instagram"
       icon_pack = "fab"
-      link = "https://instagram.com"
+      link = "https://instagram.com/midshore_stem"
 
     [[params.links]]
       service = "Full RSS Feed"
