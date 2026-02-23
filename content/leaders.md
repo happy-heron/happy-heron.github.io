@@ -14,12 +14,15 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 ## Senior STEM Leader
 ### **Leadership Chair: Hunter Gilroy**
 ---
-## Social Media (Instagram)
-### **Leadership Chair: Kaylin Palmer**
-- Member: Not assigned yet.
+## Operations / Webmaster 
+### **Leadership Chair: Ben Watkins**
 ---
 ## Media
-### **Leadership Chair: Maximus Rene**
+### **Leadership Chair: Max Rene**
+- Member: Not assigned yet.
+---
+## Social Media (Instagram)
+### **Leadership Chair: Kaylin Palmer**
 - Member: Not assigned yet.
 ---
 ## Curriculum
@@ -27,15 +30,11 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 - Member: Not assigned yet.
 ---
 ## Personnel
-### **Leadership Chair: TBD**
+### **Leadership Chair: Brennan McMahan**
 - Member: Not assigned yet.
 ---
 ## Finance 
 ### **Leadership Chair: Veronica Pool**
-- Member: Not assigned yet.
----
-## Operations / Webmaster 
-### **Leadership Chair: Ben Watkins**
 - Member: Not assigned yet.
 ---
 
