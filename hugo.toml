@@ -34,7 +34,7 @@ enableEmoji = true
 
   [[menu.main]]
     name = "Donate"
-    url = "https://operations.daxko.com/online/2043/OnlineGiving/Donation.mvc"
+    url = "/donate"
     weight = 2
 
   [[menu.main]]
