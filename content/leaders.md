@@ -19,15 +19,16 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 ---
 ## Media
 ### **Leadership Chair: Max Rene**
-- Member: Not assigned yet.
+- Member: Kaylin Palmer
 ---
 ## Social Media (Instagram)
 ### **Leadership Chair: Kaylin Palmer**
-- Member: Not assigned yet.
 ---
 ## Curriculum
 ### **Leadership Chair: Touryn Smith**
-- Member: Not assigned yet.
+- Member: Brennan McMahan
+- Member: Sam Ellis
+- Member: Bennett Gordon
 ---
 ## Personnel
 ### **Leadership Chair: Brennan McMahan**
@@ -35,7 +36,10 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 ---
 ## Finance 
 ### **Leadership Chair: Veronica Pool**
-- Member: Not assigned yet.
+- Member: Rafa Bailon
+- Member: Emmett Ellis
+- Member: Kaylin Palmer (tentative)
+- Member: Brennan McMahan
 ---
 
 # 2026 Denton STEM Leaders
