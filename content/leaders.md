@@ -36,7 +36,6 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 ---
 ## Finance 
 ### **Leadership Chair: Veronica Pool**
-- Member: Rafa Bailon
 - Member: Emmett Ellis
 - Member: Kaylin Palmer (tentative)
 - Member: Brennan McMahan
