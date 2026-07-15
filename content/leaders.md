@@ -32,7 +32,6 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 ---
 ## Personnel
 ### **Leadership Chair: Brennan McMahan**
-- Member: Not assigned yet.
 ---
 ## Finance 
 ### **Leadership Chair: Veronica Pool**
@@ -43,7 +42,28 @@ STEM leaders make these camps possible through their dedication, expertise, and 
 
 # 2026 Denton STEM Leaders
 ---
-**COMING SOON!**
+## Senior STEM Leader
+### **Leadership Chair: Ayden Russell**
+---
+## Operations
+### **Leadership Chair: Chase Olavsrud**
+- Member: Grayson Sechrist
+- Member: Gabriel Peterson
+---
+## Media
+### **Leadership Chair: Hansen Capistran**
+- Member: Grayson Sechrist
+---
+## Curriculum
+### **Leadership Chair: Ayden Russell**
+- Member: Jessy Perez Hernandez
+---
+## Personnel
+### **Leadership Chair: Caleb Melvin**
+---
+## Finance 
+### **Leadership Chair: Miranda Rubio**
+- Member: Jessy Perez Hernandez
 
 ---
 # [2025 STEM Leaders (click here)](https://midshorestem.org/leaders-2025/)
